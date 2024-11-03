@@ -32,9 +32,4 @@ Are you ready to become part of the Creativ Foundation's mission? Whether you’
 
 At the Creativ Foundation, we believe that by fostering creativity, collaboration, and fresh perspectives, we can redefine what it means to be a coder. This is just the beginning, and we’re excited to watch the world of code evolve alongside our community. Let’s make coding a space where innovation meets inspiration — together.
 
-Feel free to use or modify this for your GitHub README, James!
-Download the latest iOS or Android app to try advanced voice mode
-Get more natural, real-time conversations with advanced voice. Senses and responds to humor, sarcasm, interruptions, and more.
 
-
-ChatGPT can make mistakes. Check important info.
